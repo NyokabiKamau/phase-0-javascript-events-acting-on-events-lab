@@ -1,4 +1,3 @@
-const { parseAsync } = require("@babel/core");
 
 // Your code here
 const dodger = document.getElementById("dodger");
